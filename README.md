@@ -1,3 +1,8 @@
-﻿# Login-Modern-1
+# Login-Modern-1
 
-[![Login-1.png](https://i.postimg.cc/2SR1Djmj/Login-1.png)](https://postimg.cc/9rbmPhrs)
+# Captura 
+Captura de pantalla del proyecto:
+![Captura](img/Login1.png)
+
+# CodeLive
+Mi canal de YOUTUBE:<a href="https://www.youtube.com/@CodeLiveH1" target="_blank">Youtube</a> 😋
